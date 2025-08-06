@@ -85,4 +85,3 @@ A modern blog platform built with Laravel 11 and Tailwind CSS. This project supp
 - **Frontend**: Blade, Tailwind CSS
 - **Database**: SQLite
 - **Pagination & Search**: Laravel query builder + Eloquent
->>>>>>> 21a287161139db08a659c4980c1931f9ef167409
