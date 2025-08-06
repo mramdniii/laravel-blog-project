@@ -64,3 +64,25 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+
+# Blog GO 📰
+
+A modern blog platform built with Laravel 11 and Tailwind CSS. This project supports multiple categories, tags, authors, and a responsive layout with search and pagination.
+
+## ✨ Features
+
+- 🧑‍💻 Multi-author support
+- 🧾 Article categories (e.g., Web Programming, Machine Learning)
+- 🔍 Article search
+- 🔖 Tags and filters
+- 📱 Fully responsive (Tailwind CSS)
+
+## 🚀 Tech Stack
+
+- **Backend**: Laravel 11
+- **Frontend**: Blade, Tailwind CSS
+- **Database**: SQLite
+- **Pagination & Search**: Laravel query builder + Eloquent
+>>>>>>> 21a287161139db08a659c4980c1931f9ef167409
